@@ -1,4 +1,4 @@
-I’m Pascal, French, 62, with more than 40 years in IT. I’ve worked in networking, support, pre-sales, sales, and management. These days, I’m back to the technical work I enjoy: experimenting and understanding how things work underneath.
+I’m Jean Marin, French, 62, with more than 40 years in IT. I’ve worked in networking, support, pre-sales, sales, and management. These days, I’m back to the technical work I enjoy: experimenting and understanding how things work underneath.
 
 I work as a consultant on AI for engineering enablement, mainly for large organizations. I also participate in a French AI think tank.
 
